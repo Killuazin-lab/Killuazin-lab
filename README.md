@@ -62,3 +62,15 @@
 
  </div>
 </div>
+     
+     <div align="center">
+   <h2 align="center"> Contatos. </h2>
+   <div align="center">
+     
+  <a href = "mailto:breno_amorimc@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/breno-amorim-candido-420179232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+   </div>
+
+  ![Snake animation](https://github.com/Killuazin-lab/Killuazin-lab/blob/output/github-contribution-grid-snake.svg)
+ </div>
