@@ -1,11 +1,25 @@
-<p align="center">
-  <a> Hi, i'm Breno Amorim Candido
- </p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&duration=6000&center=true&vCenter=true&width=600&lines=Bom+Dia+Mundo+%3C3)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&center=true&vCenter=true&width=600&lines=Ol%C3%A1+Pessoas%2C+eu+sou+Breno%2C+e+bem-vindo+ao+meu+perfil!+)](https://git.io/typing-svg)
+  
+  </div>
+
+<div align="center"> 
+  <h2> Descrição rápida sobre mim ♥️ :  </h2>
+  <p> 🎓 Cursei ensino medio na Etec de Taboão da Serra </p>
+  <p> 💻 Aluno do Instituto PROA, Cursando desenvolvimento Web Java. </p>
+  <p> 🖱 Pretendo trabalhar como desenvolvedor back-end ou mobile. </p>
+  <br>
+</div>
 
 
+<div align="center"> 
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killuazin-lab&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killuazin-lab&langs_count=8&theme=dark)](https://github.com/Killuazin-lab/github-readme-stats)
-
+  </div>
+<div align="center">
 
 <p align="center">
   <a href="https://github.com/seu-usuario%22%3E>
@@ -23,6 +37,8 @@
     />
   </a>
 </p>
+  
+  </div>
 
 <div>
  <h2 align="center">ᴛᴇᴄɴᴏʟᴏɢɪᴀs Atuais ☕ </h2>
