@@ -6,6 +6,7 @@
   </div>
 
 <div align="center" background color="#000000"> 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killuazin-lab&show_icons=true&theme=dark)
   <h2> Descrição rápida sobre mim ♥️ :  </h2>
   <p> 🎓 Cursei ensino medio na Etec de Taboão da Serra </p>
   <p> 💻 Aluno do Instituto PROA, Cursando desenvolvimento Web Java. </p>
