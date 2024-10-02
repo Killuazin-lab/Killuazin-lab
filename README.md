@@ -1,7 +1,6 @@
 <div align="center" background color="#000000">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%000000&size=18&duration=6000&center=true&vCenter=true&width=600&lines=Bom+Dia+Mundo+%3C3)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%000000&size=18&center=true&vCenter=true&width=600&lines=Ol%C3%A1+Pessoas%2C+eu+sou+Breno%2C+e+bem-vindo+ao+meu+perfil!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Bem+Vindo;Eu+sou+o+Breno+Amorim+Candido)](https://git.io/typing-svg)
   
   </div>
 
