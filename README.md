@@ -5,7 +5,7 @@
   
   </div>
 
-<div align="center" background-color="black"> 
+<div align="center" background color="#000000"> 
   <h2> Descrição rápida sobre mim ♥️ :  </h2>
   <p> 🎓 Cursei ensino medio na Etec de Taboão da Serra </p>
   <p> 💻 Aluno do Instituto PROA, Cursando desenvolvimento Web Java. </p>
