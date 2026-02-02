@@ -1,89 +1,61 @@
-<div align="center" background color="#000000">
+## 👨‍💻 Sobre mim
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Bem+Vindo;Eu+sou+o+Breno+Amorim+Candido)](https://git.io/typing-svg)
-  
-  </div>
+🎓 **Engenharia da Computação – SENAC**  
+📅 Previsão de conclusão: **Dezembro/2027**
 
-<div align="center" background color="#000000"> 
-  
-  <h2> Descrição rápida sobre mim ♥️ :  </h2>
-  <p> 🎓 Cursei ensino medio na Etec de Taboão da Serra </p>
-  <p> 💻 Aluno do Instituto PROA, Cursando desenvolvimento Web Java. </p>
-  <p> 🖱 Pretendo trabalhar como desenvolvedor back-end ou mobile. </p>
-  <br>
-</div>
+💻 Formação em **Desenvolvimento de Sistemas** pelo **Instituto PROA** (concluído).
+
+Sou estudante de Engenharia da Computação com interesse em atuar nas áreas de **Backend**, **Full Stack**, **Mobile**, **Engenharia de Software** e **Dados / BI**, com experiência em desenvolvimento de dashboards, integração de sistemas, análise de dados e aplicações web.
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🔹 Sistema de Gerenciamento de Frotas – Empresa Amemiya
+Projeto integrador desenvolvido no 6º semestre do curso de Engenharia da Computação, voltado ao controle e análise de frotas.
+
+**Funcionalidades:**
+- Visualização da localização dos veículos
+- Cadastro e gerenciamento de frota
+- Controle de custos (combustível, manutenção e rotas)
+- Geração de relatórios em **Excel**
+- Conversão automática dos dados para **Power BI**, permitindo análise dinâmica e apoio à tomada de decisões
+
+🏆 **2º lugar na Semana de Engenharia do SENAC**
+
+---
+
+### 🔹 Sistema de Recompensas com Dispenser de Suco
+Projeto integrador do 5º semestre baseado em **gamificação**, integrando software e dispositivo físico.
+
+**Descrição:**
+- Aplicação inspirada em apps de academia
+- Usuários acumulam pontos ao cumprir metas
+- Resgate de recompensas via aplicativo
+- Dispenser libera o suco apenas após validação do resgate
+- Aplicação web e mobile integradas a banco de dados em tempo real
+
+---
+
+## 🛠️ Tecnologias
+
+### Linguagens e Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![COBOL](https://img.shields.io/badge/COBOL-00599C?style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Banco de Dados e Dados
+![Database](https://img.shields.io/badge/Banco_de_Dados-4479A1?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Versionamento
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-<div align="center"> 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killuazin-lab&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killuazin-lab&langs_count=8&theme=dark)](https://github.com/Killuazin-lab/github-readme-stats)
-  </div>
-<div align="center">
-
-<p align="center">
-  <a href="https://github.com/seu-usuario%22%3E>
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=Killuazin-lab&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
-    />
-  </a>
-  <a href="https://github.com/seu-usuario%22%3E>
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killuain-lab&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark"
-    />
-  </a>
-</p>
-  
-  </div>
-
-<div>
- <h2 align="center">ᴛᴇᴄɴᴏʟᴏɢɪᴀs Atuais ☕ </h2>
- <div align="center">
-   <span>
-    <img height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white%22%3E"
-           
-   </span>
-
-   <span>
-    <img height="30px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white%22/%3E"
-   </span>
-
-   <span>
-    <img height="30px" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white%22/%3E"
-   </span>
-
-   <span>
-    <img height="30px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white%22/%3E"
-   </span>
-   <br> <br>
-   <span>
-    <img height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black%22/%3E"
-   </span>
-
-   <span>
-    <img height="30px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB%22/%3E"
-   </span>
-
-   <span>
-    <img height="30px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white%22/%3E"
-   </span>
-
-   <span>
-    <img height="30px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white%22/%3E"
-   </span>
-
- </div>
-</div>
-     
-   
-   <h2 align="center"> Contatos. </h2>
-   <div align="center">
-     
-  <a href = "mailto:breno_amorimc@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/breno-amorim-candido-420179232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  ![Snake animation](https://github.com/Killuazin-lab/Killuazin-lab/blob/output/github-contribution-grid-snake.svg)
