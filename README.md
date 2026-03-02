@@ -35,6 +35,7 @@ Projeto integrador do 5º semestre baseado em **gamificação**, integrando soft
 - Dispenser libera o suco apenas após validação do resgate
 - Aplicação web e mobile integradas a banco de dados em tempo real
 
+🏆 **1º lugar na Semana de Engenharia do SENAC** 🏆
 ---
 
 ## 🛠️ Tecnologias
